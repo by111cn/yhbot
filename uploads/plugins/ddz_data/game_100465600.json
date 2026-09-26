@@ -1,0 +1,24 @@
+{
+    "chatId": "100465600",
+    "phase": "waiting",
+    "players": [
+        {
+            "id": "9428484",
+            "name": "白屿",
+            "cards": [],
+            "isLandlord": false,
+            "isAI": false,
+            "ready": false
+        }
+    ],
+    "bottomCards": [],
+    "currentPlayer": 0,
+    "lastPlay": null,
+    "passCount": 0,
+    "bidPlayer": 0,
+    "bidHistory": [],
+    "landlord": -1,
+    "createdAt": 1785470636,
+    "winner": -1,
+    "updatedAt": 1785470636
+}
